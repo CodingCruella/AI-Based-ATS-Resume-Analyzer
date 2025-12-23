@@ -19,6 +19,8 @@ This project is an **industrial-grade Applicant Tracking System (ATS)** built us
   - Candidate information, contact analysis, education, and measurable results.
 - **Modern UI:**
   - Award card, skills table, and visual keyword clouds for clarity and impact.
+
+
 Deployed here: (https://gemini-ats-codingcruella.streamlit.app/)
 
 
@@ -139,4 +141,5 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 
 This project is licensed under the MIT License.
+
 
