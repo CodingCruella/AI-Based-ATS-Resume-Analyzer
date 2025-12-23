@@ -324,4 +324,5 @@ if st.button("Calculate Score"):
     ats.calculate_score(requirements)
 
 
-st.sidebar.markdown("### By: CodingCruella")
+st.sidebar.markdown("### By: Codestars")
+
