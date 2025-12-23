@@ -323,4 +323,5 @@ requirements = st.text_area("Enter job requirements here", height=200)
 if st.button("Calculate Score"):
     ats.calculate_score(requirements)
 
-st.sidebar.markdown("### By: Virus1260")
+
+st.sidebar.markdown("### By: CodingCruella")
