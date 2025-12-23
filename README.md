@@ -1,13 +1,24 @@
-# ATS with Google Gemini
+# Applicant Tracking System (ATS) with Google Gemini
 
-Enterprise-grade Applicant Tracking System (ATS) built with Streamlit and Google Gemini.  
-Delivers strict, realistic ATS scoring for resumes vs. job descriptions.  
-Award levels (Gold, Silver, Bronze) highlight candidate fit instantly.  
-Keyword cloud visualization shows alignment at a glance.  
-Structured skills tables extract hard and soft skills clearly.  
-Comprehensive ATS reports outline strengths, weaknesses, and recruiter tips.  
-Fraud detection flags fake or AI-generated resumes and incomplete job posts.  
-Modern UI with award cards and visual keyword insights.  
+This project is an **industrial-grade Applicant Tracking System (ATS)** built using Streamlit, Google Generative AI (Gemini), and advanced Python libraries. It provides rigorous, realistic ATS scoring and analysis for resumes against job descriptions, suitable for enterprise-level recruitment.
+
+## Key Features
+- **Strict, Realistic ATS Scoring:**
+  - Mathematically advanced scoring blends Gemini AI analysis and keyword match, with penalties for low match.
+  - Award levels (Gold, Silver, Bronze) based on score.
+- **Industrial-Grade Prompt Rigor:**
+  - Uses a strict external JSON template for Gemini prompts, enforcing format and evidence citation.
+  - Flags fake, generic, or AI-generated resumes and incomplete job descriptions.
+- **Keyword Cloud Visualization:**
+  - Generates and displays keyword clouds for both resume and job description.
+  - Calculates and shows keyword match percentage.
+- **Skills Table Extraction:**
+  - Extracts and displays hard and soft skills as a structured table with counts.
+- **Comprehensive ATS Report:**
+  - Bullet-pointed strengths, weaknesses, recommendations, and recruiter tips.
+  - Candidate information, contact analysis, education, and measurable results.
+- **Modern UI:**
+  - Award card, skills table, and visual keyword clouds for clarity and impact.
 Deployed here: (https://gemini-ats-codingcruella.streamlit.app/)
 
 
@@ -128,3 +139,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 
 This project is licensed under the MIT License.
+
